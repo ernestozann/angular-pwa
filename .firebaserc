@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "angular-pwa-platzi"
-  }
+    "default": "angular-pwa-3a40e",
+    "angular-pwa": "angular-pwa-3a40e"
+  },
+  "targets": {}
 }
